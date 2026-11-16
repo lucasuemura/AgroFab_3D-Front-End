@@ -1,4 +1,4 @@
-# 🌱 AgroFab3D — Frontend
+# 🌱 AgroFab3D — Front-End Versão Typescript
 
 > **Conectando problemas reais do campo a empresas capazes de desenvolver e fabricar soluções com impressão 3D.**
 
